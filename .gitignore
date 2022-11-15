@@ -31,4 +31,4 @@ htmlcov/
 .github/**
 ./venv
 venv/
-#.env_file
+#env_file
